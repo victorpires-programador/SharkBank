@@ -1,0 +1,195 @@
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\bin\Debug\SharkBank_App.exe
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\bin\Debug\SharkBank_App.pdb
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmLogin.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Properties.Resources.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.csproj.GenerateResource.Cache
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.exe
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.pdb
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmMenu.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmPagar.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmPix.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmQRCodePagar.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmPagarBoleto.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmErroCamera.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmDeposito.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmTransferir.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmTrasnfPix.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmTed.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmTransContaBancaria.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmBancoOriginal.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmSacar.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmSacarBanco.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmExtrato.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmGastos.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmInfoSacar.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmRecarga.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmEscolherOpR.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmValorRecarga.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmPagarPessoa.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.csprojResolveAssemblyReference.cache
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\bin\Debug\Mono.Security.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\bin\Debug\Npgsql.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmMinhaConta.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.exe
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.pdb
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\bin\Debug\SharkBank_App.exe
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\bin\Debug\SharkBank_App.pdb
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.csprojResolveAssemblyReference.cache
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmBancoOriginal.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmDeposito.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmEscolherOpR.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmExtrato.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmGastos.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmInfoSacar.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmLogin.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmMenu.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmMinhaConta.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmPagar.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmPagarBoleto.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmPagarPessoa.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmPix.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmQRCodePagar.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmErroCamera.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmRecarga.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmSacar.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmSacarBanco.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmTed.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmTransContaBancaria.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmTransferir.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmTrasnfPix.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmValorRecarga.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Properties.Resources.resources
+C:\tmp\SharkBank\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.csproj.GenerateResource.Cache
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.csprojResolveAssemblyReference.cache
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmBancoOriginal.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmDeposito.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmEscolherOpR.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmExtrato.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmInfoSacar.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmLogin.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmMenu.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmMinhaConta.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmPagar.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmPagarBoleto.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmPagarPessoa.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmPix.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmQRCodePagar.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmErroCamera.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmSacar.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmSacarBanco.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmTed.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmTransContaBancaria.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmTransferir.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmTrasnfPix.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmValorRecarga.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Properties.Resources.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.csproj.GenerateResource.Cache
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.exe
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.pdb
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\bin\Debug\SharkBank_App.exe
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\bin\Debug\SharkBank_App.pdb
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\bin\Debug\Npgsql.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\bin\Debug\Npgsql.pdb
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\bin\Debug\Npgsql.xml
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\bin\Debug\Mono.Security.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmPedirCartao.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmCadastrarCartao.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmCadastrar.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmEsqueciSenha.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\SharkBank - Modificado\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmNovaSenha.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.exe
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.pdb
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\bin\Debug\SharkBank_App.exe
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\bin\Debug\SharkBank_App.pdb
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\bin\Debug\Mono.Security.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\bin\Debug\Npgsql.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\bin\Debug\Npgsql.pdb
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\bin\Debug\Npgsql.xml
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.csprojResolveAssemblyReference.cache
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmBancoOriginal.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmCadastrar.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmCadastrarCartao.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmDeposito.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmEscolherOpR.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmEsqueciSenha.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmExtrato.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmInfoSacar.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmLogin.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmMenu.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmMinhaConta.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmNovaSenha.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmPagar.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmPagarBoleto.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmPagarPessoa.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmPedirCartao.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmPix.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmQRCodePagar.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmErroCamera.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmSacar.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmSacarBanco.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmTed.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmTransContaBancaria.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmTransferir.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmTrasnfPix.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmValorRecarga.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Properties.Resources.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.csproj.GenerateResource.Cache
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmCadastrarBanco.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.exe
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.pdb
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.csprojResolveAssemblyReference.cache
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmBancoOriginal.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmCadastrar.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmCadastrarBanco.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmCadastrarCartao.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmDeposito.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmEscolherOpR.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmEsqueciSenha.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmExtrato.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmInfoSacar.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmLogin.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmMenu.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmMinhaConta.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmNovaSenha.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmPagar.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmPagarBoleto.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmPagarPessoa.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmPedirCartao.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmPix.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmQRCodePagar.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmErroCamera.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmSacar.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmSacarBanco.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmTed.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmTransContaBancaria.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmTransferir.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmTrasnfPix.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.frmValorRecarga.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Properties.Resources.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.csproj.GenerateResource.Cache
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\bin\Debug\SharkBank_App.exe
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\bin\Debug\SharkBank_App.pdb
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\bin\Debug\Mono.Security.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\bin\Debug\Npgsql.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\bin\Debug\Npgsql.pdb
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\bin\Debug\Npgsql.xml
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5432\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmMostrarChaves.resources
+C:\Users\Victor\OneDrive\Área de Trabalho\Tudo\Programa\SharkBank - 5434\SharkBank_App\SharkBank_App\obj\x86\Debug\SharkBank_App.Telas.frmMostrarChaves.resources

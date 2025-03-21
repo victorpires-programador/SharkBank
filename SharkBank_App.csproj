@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{795AE2FD-6FA4-4CA3-8C9C-1E28359950B5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SharkBank_App</RootNamespace>
+    <AssemblyName>SharkBank_App</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Mono.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\database\Npgsql-2.2.3-net40\Mono.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\database\Npgsql-2.2.3-net40\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\EscreverArquivo.cs" />
+    <Compile Include="Telas\Transferir\frmBancoOriginal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Transferir\frmBancoOriginal.Designer.cs">
+      <DependentUpon>frmBancoOriginal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Login\frmCadastrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Login\frmCadastrar.Designer.cs">
+      <DependentUpon>frmCadastrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Transferir\frmCadastrarBanco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Transferir\frmCadastrarBanco.Designer.cs">
+      <DependentUpon>frmCadastrarBanco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Cartao_SharkBank\frmCadastrarCartao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Cartao_SharkBank\frmCadastrarCartao.Designer.cs">
+      <DependentUpon>frmCadastrarCartao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Menu\frmDeposito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Menu\frmDeposito.Designer.cs">
+      <DependentUpon>frmDeposito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Menu\frmEscolherOpR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Menu\frmEscolherOpR.Designer.cs">
+      <DependentUpon>frmEscolherOpR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Login\frmEsqueciSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Login\frmEsqueciSenha.Designer.cs">
+      <DependentUpon>frmEsqueciSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Menu\frmExtrato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Menu\frmExtrato.Designer.cs">
+      <DependentUpon>frmExtrato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Sacar\frmInfoSacar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Sacar\frmInfoSacar.Designer.cs">
+      <DependentUpon>frmInfoSacar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Login\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Login\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Menu\frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Menu\frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\MinhaConta\frmMinhaConta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\MinhaConta\frmMinhaConta.Designer.cs">
+      <DependentUpon>frmMinhaConta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Login\frmMostrarChaves.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Login\frmMostrarChaves.Designer.cs">
+      <DependentUpon>frmMostrarChaves.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Login\frmNovaSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Login\frmNovaSenha.Designer.cs">
+      <DependentUpon>frmNovaSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Menu\frmPagar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Menu\frmPagar.Designer.cs">
+      <DependentUpon>frmPagar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Pagar\frmPagarBoleto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Pagar\frmPagarBoleto.Designer.cs">
+      <DependentUpon>frmPagarBoleto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Menu\frmPagarPessoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Menu\frmPagarPessoa.Designer.cs">
+      <DependentUpon>frmPagarPessoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Menu\frmPedirCartao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Menu\frmPedirCartao.Designer.cs">
+      <DependentUpon>frmPedirCartao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Pagar\frmPix.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Pagar\frmPix.Designer.cs">
+      <DependentUpon>frmPix.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Pagar\frmQRCodePagar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Pagar\frmQRCodePagar.Designer.cs">
+      <DependentUpon>frmQRCodePagar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Menu\frmErroCamera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Menu\frmErroCamera.Designer.cs">
+      <DependentUpon>frmErroCamera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Menu\frmSacar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Menu\frmSacar.Designer.cs">
+      <DependentUpon>frmSacar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Sacar\frmSacarBanco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Sacar\frmSacarBanco.Designer.cs">
+      <DependentUpon>frmSacarBanco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Transferir\frmTed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Transferir\frmTed.Designer.cs">
+      <DependentUpon>frmTed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Transferir\frmTransContaBancaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Transferir\frmTransContaBancaria.Designer.cs">
+      <DependentUpon>frmTransContaBancaria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Menu\frmTransferir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Menu\frmTransferir.Designer.cs">
+      <DependentUpon>frmTransferir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Transferir\frmTrasnfPix.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Transferir\frmTrasnfPix.Designer.cs">
+      <DependentUpon>frmTrasnfPix.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Recarga\frmValorRecarga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Recarga\frmValorRecarga.Designer.cs">
+      <DependentUpon>frmValorRecarga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Classes\ValidarCPF.cs" />
+    <EmbeddedResource Include="Telas\Transferir\frmBancoOriginal.resx">
+      <DependentUpon>frmBancoOriginal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Login\frmCadastrar.resx">
+      <DependentUpon>frmCadastrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Transferir\frmCadastrarBanco.resx">
+      <DependentUpon>frmCadastrarBanco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Cartao_SharkBank\frmCadastrarCartao.resx">
+      <DependentUpon>frmCadastrarCartao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Menu\frmDeposito.resx">
+      <DependentUpon>frmDeposito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Menu\frmEscolherOpR.resx">
+      <DependentUpon>frmEscolherOpR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Login\frmEsqueciSenha.resx">
+      <DependentUpon>frmEsqueciSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Menu\frmExtrato.resx">
+      <DependentUpon>frmExtrato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Sacar\frmInfoSacar.resx">
+      <DependentUpon>frmInfoSacar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Login\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Menu\frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\MinhaConta\frmMinhaConta.resx">
+      <DependentUpon>frmMinhaConta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Login\frmMostrarChaves.resx">
+      <DependentUpon>frmMostrarChaves.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Login\frmNovaSenha.resx">
+      <DependentUpon>frmNovaSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Menu\frmPagar.resx">
+      <DependentUpon>frmPagar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Pagar\frmPagarBoleto.resx">
+      <DependentUpon>frmPagarBoleto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Menu\frmPagarPessoa.resx">
+      <DependentUpon>frmPagarPessoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Menu\frmPedirCartao.resx">
+      <DependentUpon>frmPedirCartao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Pagar\frmPix.resx">
+      <DependentUpon>frmPix.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Pagar\frmQRCodePagar.resx">
+      <DependentUpon>frmQRCodePagar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Menu\frmErroCamera.resx">
+      <DependentUpon>frmErroCamera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Menu\frmSacar.resx">
+      <DependentUpon>frmSacar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Sacar\frmSacarBanco.resx">
+      <DependentUpon>frmSacarBanco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Transferir\frmTed.resx">
+      <DependentUpon>frmTed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Transferir\frmTransContaBancaria.resx">
+      <DependentUpon>frmTransContaBancaria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Menu\frmTransferir.resx">
+      <DependentUpon>frmTransferir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Transferir\frmTrasnfPix.resx">
+      <DependentUpon>frmTrasnfPix.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Recarga\frmValorRecarga.resx">
+      <DependentUpon>frmValorRecarga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
